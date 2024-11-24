@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "13bf3562f45e89d7",
+            "id": "d576dda72fe60550",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physical Aspects/Lithosphere/Composition/Natural Resources.md",
+                "file": "Physical Aspects/Lithosphere/Composition/Layers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Natural Resources"
+              "title": "Layers"
             }
           }
         ],
@@ -198,11 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13bf3562f45e89d7",
+  "active": "4641f72edead905d",
   "lastOpenFiles": [
-    "Physical Aspects/Lithosphere/Composition/Magnetosphere.md",
     "What is Planet Anvita?.md",
+    "Physical Aspects/Lithosphere/Composition/Layers.md",
     "Physical Aspects/Lithosphere/Composition/Natural Resources.md",
+    "Physical Aspects/Lithosphere/Composition/Magnetosphere.md",
     "Physical Aspects/Lithosphere/Composition",
     "Physical Aspects/Lithosphere",
     "Untitled",
