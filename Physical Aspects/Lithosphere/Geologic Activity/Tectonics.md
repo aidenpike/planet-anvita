@@ -1,4 +1,0 @@
-- Where do the plates lie
-- How have they moved, what's their trajectory now
-- Special places between tectonics
-- Ring of fire type thing?

@@ -1,2 +1,0 @@
-- everything layer wise is similar to Earth, but some materials are magic infused
-- Talk about magic materials within the core 
