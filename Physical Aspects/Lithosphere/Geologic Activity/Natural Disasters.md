@@ -1,0 +1,1 @@
+- Seperate in headers by geologic, atmospheric, hydrospheric, and magispheric
