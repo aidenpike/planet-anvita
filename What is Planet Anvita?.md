@@ -13,12 +13,6 @@ Planet Anvita (/ɑnvitʌ/) is a worldbuilding project that I am probably about t
 		1.1.3 Geologic Activity
 			1.1.3.1 Natural Disasters#Geologic
 			1.1.3.2 Tectonics
-		1.1.4 Biomes
-			1.1.4.1 Deserts
-			1.1.4.2 Forests
-			1.1.4.3 Glacial
-			1.1.4.4 Grasslands
-			1.1.4.5 Special
 	1.2 Atmosphere
 		1.2.1 Atmospheric Composition
 		1.2.3 Climate 
@@ -35,6 +29,12 @@ Planet Anvita (/ɑnvitʌ/) is a worldbuilding project that I am probably about t
 		1.4.2 Fauna
 			1.4.2.1 Terrestrial
 			1.4.2.2 Aquatic
+		 1.4.3 Biomes
+			1.4.3.1 Deserts
+			1.4.3.2 Forests
+			1.4.3.3 Glacial
+			1.4.3.4 Grasslands
+			1.4.3.5 Special
 	1.5 Magisphere
 		1.5.1 Unstable Magic
 			1.5.1.1 Natural Disasters#Magic 
