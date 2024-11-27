@@ -1,4 +1,5 @@
 ## Overview
+The [lithosphere](https://www.britannica.com/science/lithosphere) is the utmost layer of rock of a terrestrial body. 
 ### Composition
 The composition of Anvita is very similar to Earth (mainly oxygen and silicon), with the addition of [[Magisphere|magic-infused]] elements.
 
