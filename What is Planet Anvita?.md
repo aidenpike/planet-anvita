@@ -24,8 +24,6 @@ Planet Anvita (/ɑnvitʌ/) is a worldbuilding project that I am probably about t
 - Overview
 	- Flora
 	- Fauna
-		- Terrestial
-		- Aquatic
 	- Biomes (May need its own page)
 		- Deserts
 		- Forests
